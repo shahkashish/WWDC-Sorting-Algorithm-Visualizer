@@ -1,6 +1,0 @@
-framework module Pods_algo_2 {
-  umbrella header "Pods-algo 2-umbrella.h"
-
-  export *
-  module * { export * }
-}
